@@ -61,7 +61,7 @@ java -cp .;src/Libreria/JDBC.jar exe
 
 
 ## Version
-Version 1.2 AccesoABaseDeDatos
+Version 3.0 AccesoABaseDeDatos
 
 ## Autor 
 * **Daniel Escobar Araujo** [DanielEscobar21](https://github.com/DanielEscobar21)
