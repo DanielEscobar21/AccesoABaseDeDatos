@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: exe
+Class-Path: src/Librerias/JDBC.jar
+Created-By: 11.0.9.1 (Ubuntu)
+
